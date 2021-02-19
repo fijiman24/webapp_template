@@ -5,7 +5,7 @@
 * [Contents](#content)
 
 ## General Info
-This browser based web application to ...
+This browser based web application to help restaurant owners design menus.
 	
 ## Technologies
 Technologies used for this project:
